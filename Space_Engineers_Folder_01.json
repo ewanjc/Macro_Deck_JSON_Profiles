@@ -1,0 +1,43 @@
+{
+  "Guid": "2bedf6a6-a290-47f6-acab-d1d0f5ec320a",
+  "State": false,
+  "IconOff": "Space Engineers.a4bb545c-e6f8-484c-b988-c8df6a5c5aa9",
+  "IconOn": "",
+  "BackColorOff": "35, 35, 35",
+  "BackColorOn": "35, 35, 35",
+  "LabelOff": {
+    "LabelText": "1",
+    "LabelPosition": 1,
+    "LabelColor": "White",
+    "Size": 18.0,
+    "FontFamily": "Impact",
+    "LabelBase64": ""
+  },
+  "LabelOn": {
+    "LabelText": "",
+    "LabelPosition": 1,
+    "LabelColor": "Olive",
+    "Size": 18.0,
+    "FontFamily": "Impact",
+    "LabelBase64": ""
+  },
+  "Position_X": 0,
+  "Position_Y": 0,
+  "StateBindingVariable": "",
+  "Actions": [
+    {
+      "$type": "SuchByte.WindowsUtils.Actions.HotkeyAction, Windows Utils",
+      "Name": "Hotkey",
+      "Description": "Send a single hotkey",
+      "CanConfigure": true,
+      "Configuration": "{\r\n  \"lwin\": \"False\",\r\n  \"rwin\": \"False\",\r\n  \"ctrl\": \"False\",\r\n  \"lctrl\": \"False\",\r\n  \"rctrl\": \"False\",\r\n  \"shift\": \"False\",\r\n  \"lshift\": \"False\",\r\n  \"rshift\": \"False\",\r\n  \"alt\": \"False\",\r\n  \"lalt\": \"False\",\r\n  \"ralt\": \"False\",\r\n  \"key\": \"VK_1\"\r\n}",
+      "ConfigurationSummary": "VK_1"
+    }
+  ],
+  "ActionsRelease": [],
+  "ActionsLongPress": [],
+  "ActionsLongPressRelease": [],
+  "EventListeners": [],
+  "ModifierKeyCodes": 0,
+  "KeyCode": 0
+}
