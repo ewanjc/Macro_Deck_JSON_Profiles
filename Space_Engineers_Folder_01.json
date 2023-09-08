@@ -134,9 +134,7 @@
 "Name":"Hotkey",
 "Description":"Send a single hotkey",
 "CanConfigure":true,
-"Configuration":"{
-\r\n  \"lwin\": \"False\",\r\n  \"rwin\": \"False\",\r\n  \"ctrl\": \"False\",\r\n  \"lctrl\": \"False\",\r\n  \"rctrl\": \"False\",\r\n  \"shift\": \"False\",\r\n  \"lshift\": \"False\",\r\n  \"rshift\": \"False\",\r\n  \"alt\": \"False\",\r\n  \"lalt\": \"False\",\r\n  \"ralt\": \"False\",\r\n  \"key\": \"VK_1\"\r\n}",
-"ConfigurationSummary":"VK_1"}],
+"Configuration":"{\r\n  \"lwin\": \"False\",\r\n  \"rwin\": \"False\",\r\n  \"ctrl\": \"False\",\r\n  \"lctrl\": \"False\",\r\n  \"rctrl\": \"False\",\r\n  \"shift\": \"False\",\r\n  \"lshift\": \"False\",\r\n  \"rshift\": \"False\",\r\n  \"alt\": \"False\",\r\n  \"lalt\": \"False\",\r\n  \"ralt\": \"False\",\r\n  \"key\": \"VK_1\"\r\n}","ConfigurationSummary":"VK_1"}],
 "ActionsRelease":[],
 "ActionsLongPress":[],
 "ActionsLongPressRelease":[],
